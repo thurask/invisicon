@@ -1,7 +1,5 @@
-bbdownloader
+invisicon
 ==========
-An OS/radio downloader for BlackBerry 10
+Invisible home screen icons for BB10 (gratis!)
 
 Import into Momentics to use
-
-Not gonna find this on BB World, that's for sure
